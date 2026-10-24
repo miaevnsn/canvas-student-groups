@@ -12,18 +12,7 @@ This started as an empty folder. The prototype is a small website you can open i
 - `js/store.js` — saves groups and messages in `localStorage`
 - `js/app.js` — screens and interactions
 
-## How to run it
 
-1. Open this folder in VS Code / Cursor.
-2. Open `index.html` in a browser, or from a terminal in this folder run:
-
-```bash
-npx --yes serve .
-```
-
-Then visit the URL shown in the terminal (usually `http://localhost:3000`).
-
-No Canvas login is used. Data stays on your computer. Refreshing the page keeps chats. Clearing site data resets the demo.
 
 ## What you can try
 

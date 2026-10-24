@@ -23,6 +23,3 @@ This started as an empty folder. The prototype is a small website you can open i
 - Set a deadline, pin a message, add project links
 - See group deadlines under Calendar
 
-## Real-time / multi-user chat
-
-This prototype is single-browser. Classmates do not receive messages live because there is no server. A shared backend (for example Node.js + WebSockets) would be needed for true multi-user chat. For a course demo, `localStorage` is enough.

@@ -1,6 +1,11 @@
 # Canvas Student Group Chats Prototype
 
-A student project that shows how group chats for coursework could live inside a Canvas-style student app. It is **not** an official Instructure product and does **not** connect to real Canvas accounts.
+A student project that shows how group chats for coursework could live inside a Canvas-style student app. It does **not** connect to real Canvas accounts.
+
+**Application Description: Canvas Group Chat Feature**
+
+This project introduces a group chat feature for the Canvas Student app. Its purpose is to make communication between students easier by allowing them to create group chats for courses and group projects, share messages and important links, and keep track of project deadlines. This would allow students to communicate and collaborate in one place without needing to use external apps such as Messenger or Snapchat. 
+
 
 ## What is already in this folder
 
